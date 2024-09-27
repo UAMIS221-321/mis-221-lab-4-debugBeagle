@@ -20,8 +20,6 @@ static void MainMenu()
         case "1":
             PlainPizza(randomRows);
 
-
-
             break;
 
 
@@ -37,6 +35,11 @@ static void MainMenu()
 
             System.Console.WriteLine("have a great day");
             break;
+
+        default:
+         System.Console.WriteLine("that is not a vaild answer");
+         break;
+
 
 
     }
