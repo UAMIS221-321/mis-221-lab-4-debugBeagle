@@ -1,0 +1,15 @@
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.AssemblyInfoInputs.cache
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.AssemblyInfo.cs
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.csproj.CoreCompileInputs.cache
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.sourcelink.json
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/bin/Debug/net8.0/mis-221-lab-4-debugBeagle
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/bin/Debug/net8.0/mis-221-lab-4-debugBeagle.deps.json
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/bin/Debug/net8.0/mis-221-lab-4-debugBeagle.runtimeconfig.json
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/bin/Debug/net8.0/mis-221-lab-4-debugBeagle.dll
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/bin/Debug/net8.0/mis-221-lab-4-debugBeagle.pdb
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.dll
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/refint/mis-221-lab-4-debugBeagle.dll
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.pdb
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/mis-221-lab-4-debugBeagle.genruntimeconfig.cache
+/Users/dandouglas/misCode221/mis-221-lab-4-debugBeagle/obj/Debug/net8.0/ref/mis-221-lab-4-debugBeagle.dll
